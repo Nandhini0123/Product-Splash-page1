@@ -15,3 +15,5 @@ What I learned?
 •	Changing the order of contents in flexbox using Flex Order property
 •	Box-sizing – (border box)to design easily predictable layouts
 •	Styling responsive form elements, modifiers etc
+Learned grid
+
